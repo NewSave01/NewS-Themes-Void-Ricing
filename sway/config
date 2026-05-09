@@ -248,7 +248,7 @@ client.focused #ffffff  #ffffff  #ffffff  #ffffff  #ffffff
 output * bg #000000 solid_color
 
 #auto start
-
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 #gaps
 
